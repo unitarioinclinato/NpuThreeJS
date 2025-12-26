@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "node --experimental-modules src/core/index.js",
     "build": "echo 'Build pipeline placeholder'",
-    "gemini:serve": "npx serve src/apps/GeminiEyes -p 3000"
+    "gemini:serve": "npx serve src/apps/GeminiEyes -p 3000",
+    "monitor:serve": "npx serve . -p 3001"
   },
   "dependencies": {
     "three": "^0.160.0"

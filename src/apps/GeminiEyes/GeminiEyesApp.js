@@ -1,8 +1,8 @@
 import * as THREE from 'three';
-import { AntigravityEngine } from '../../core/AntigravityEngine.js';
-import { GeminiCapsule } from './GeminiCapsule.js';
-import { GeminiOrbit } from './GeminiOrbit.js';
-import { GEMINI_MISSIONS, getMission } from './GeminiMissionData.js';
+import { AntigravityEngine } from '/src/core/AntigravityEngine.js';
+import { GeminiCapsule } from '/src/apps/GeminiEyes/GeminiCapsule.js';
+import { GeminiOrbit } from '/src/apps/GeminiEyes/GeminiOrbit.js';
+import { GEMINI_MISSIONS, getMission } from '/src/apps/GeminiEyes/GeminiMissionData.js';
 
 /**
  * GeminiEyesApp - Applicazione principale replica NASA Eyes per Gemini
