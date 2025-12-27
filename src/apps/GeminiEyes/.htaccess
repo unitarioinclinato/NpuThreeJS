@@ -1,6 +1,0 @@
-# Apache config per ESM modules (se serve usa Apache)
-<IfModule mod_mime.c>
-  AddType application/javascript .js
-  AddType application/json .json
-</IfModule>
-
