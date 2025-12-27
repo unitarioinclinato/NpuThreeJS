@@ -1,3 +1,4 @@
+pnpm install -g typescript
 pnpm install -g @google/gemini-cli
 pnpm install -g @google/gemini-cli-core
 pnpm install -g gemini-ai
