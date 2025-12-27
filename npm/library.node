@@ -1,0 +1,6 @@
+pnpm install -g @google/gemini-cli
+pnpm install -g @google/gemini-cli-core
+pnpm install -g gemini-ai
+pnpm install -g @google/gemini-cli-a2a-server
+pnpm install -g ai-sdk-provider-gemini-cli
+pnpm install -g @genkit-ai/googleai
