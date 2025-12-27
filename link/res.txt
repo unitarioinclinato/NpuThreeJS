@@ -1,0 +1,10 @@
+Gitlab worth it:
+https://about.gitlab.com/
+Markdown:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown
+typescript cheat sheet:
+https://it-cheat-sheets-21aa0a.gitlab.io/typescript-cheat-sheet.html
+Lenguage Server Protocol:
+https://microsoft.github.io/language-server-protocol/implementors/servers/
+Model Context Protocol:
+https://mcp-cheatsheet.online/
