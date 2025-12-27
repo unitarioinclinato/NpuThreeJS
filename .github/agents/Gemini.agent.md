@@ -1,6 +1,6 @@
 ---
 description: 'Adhd automatic agent.'
-tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'agent', 'todo']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'copilot-container-tools/*', 'agent', 'todo']
 ---
 ## Obiettivo dell’agente
 
